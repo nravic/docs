@@ -34,7 +34,7 @@ Feel free to commit any links, books, papers related to reputation, economics, g
 - The Stranger by Albert Camus
 - The Consolation of Philosophy by Ancius Boethius
 - Finite and Infinite Games by James P. Carse
-
+- [Teddy Roosevelt on Cowardice of Cynicism](https://www.brainpickings.org/2018/04/30/theodore-roosevelt-arena-cynicism-critic/)
 ## Economics
 
 - [Awesome Cryptoeconomics - Reading List](https://github.com/jpantunes/awesome-cryptoeconomics)
